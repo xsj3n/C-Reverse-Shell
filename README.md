@@ -1,2 +1,2 @@
 # C-Reverse-Shell
-A relatively simple 
+A relatively simple C++ reverse shell 
