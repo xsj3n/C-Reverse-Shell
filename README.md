@@ -1,2 +1,3 @@
 # C-Reverse-Shell
-A relatively simple C++ reverse shell 
+
+Simple C++ reverse shell
